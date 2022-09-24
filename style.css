@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+.content{
+
+/* background: aqua; */
+
+width: 185px;
+
+height: 100px;
+}
+.sites{
+
+background: wheat;
+
+color: red;
+
+border: 1px solid;
+
+margin: 2px;
+}
+.site-name{
+
+/* background: aqua; */
+}
+#input{
+
+width: 129px;
+
+margin-left: 2px;
+}
+#block{
+    
+}
